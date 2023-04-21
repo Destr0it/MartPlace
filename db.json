@@ -43,7 +43,14 @@
 >>>>>>> 012b243801268f72382a2aed639afe07733d717e
   ],
   "products":[
-    
+    {
+        "id": 1,
+        "name": "Відладочна плата Arduino Uno Rev3",
+        "description": "Відладочна плата Arduino Uno Rev3 — це компактна, але при цьому функціональна плата на базі мікроконтролера ATmega328P. ",
+        "price": 245.00,
+        "authorId": 1,
+        "photo_url": "https://www.robostore.com.ua/content/images/29/1500x1500l80mc0/otladochnaja-plata-arduino-uno-rev3-44151274908901.webp"
+    }
   ]
 }
 
