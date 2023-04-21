@@ -1,5 +1,11 @@
 {
   "user":[
-  
+    {
+        "id": 1,
+        "name": "Andriy",
+        "sirname": "Typchuk",
+        "photo_url": "",
+        "balance": 1000
+    }
   ]
 }
