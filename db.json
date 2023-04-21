@@ -1,6 +1,7 @@
 {
   "user":[
     {
+<<<<<<< HEAD
       "id":146,
       "name": "Vasyl",
       "sirname":"Marynovski",
@@ -8,5 +9,13 @@
       "balance": -7645
     }
   
+=======
+        "id": 1,
+        "name": "Andriy",
+        "sirname": "Typchuk",
+        "photo_url": "",
+        "balance": 1000
+    }
+>>>>>>> 5b6fe67e3be40ce22de63612502e9d2980fb8cba
   ]
 }
