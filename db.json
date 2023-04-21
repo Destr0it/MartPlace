@@ -1,5 +1,6 @@
 {
   "user":[
+<<<<<<< HEAD
     {
         "id": 1,
         "name": "Andriy",
@@ -7,5 +8,9 @@
         "photo_url": "",
         "balance": 1000
     } 
+=======
+    
+
+>>>>>>> 7b8bfba3ddb2c463b32cbb2ca534451e40c776f7
   ]
 }
