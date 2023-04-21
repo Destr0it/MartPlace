@@ -1,6 +1,15 @@
 {
   "user":[
 <<<<<<< HEAD
+        {
+          "id": 1,
+          "name": "Omar",
+          "sirname": "Zed",
+          "photo_url": "https://pbs.twimg.com/media/D4yeIrpW4AI_l_x.jpg",
+          "balance": 1500
+        } 
+=======
+<<<<<<< HEAD
     {
       "id":146,
       "name": "Vasyl",
@@ -24,3 +33,6 @@
 >>>>>>> 012b243801268f72382a2aed639afe07733d717e
   ]
 }
+
+
+
