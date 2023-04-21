@@ -1,5 +1,12 @@
 {
   "user":[
+    {
+      "id":165,
+      "name": "Dmytro",
+      "sirname":"Horelyk",
+      "photo_url": "amogus.png",
+      "balance": 135
+    }
   
   ]
 }
