@@ -1,5 +1,6 @@
 {
   "user":[
+<<<<<<< HEAD
     {
       "id":146,
       "name": "Vasyl",
@@ -7,5 +8,19 @@
       "photo_url":"https://www.boredpanda.com/blog/wp-content/uploads/2022/07/Cat-Virus-Exe-Funny-Pics-123-62c2f23a1a130__700.jpg",
       "balance": -7645
     }
+=======
+<<<<<<< HEAD
+    {
+        "id": 1,
+        "name": "Andriy",
+        "sirname": "Typchuk",
+        "photo_url": "",
+        "balance": 1000
+    } 
+=======
+    
+
+>>>>>>> 7b8bfba3ddb2c463b32cbb2ca534451e40c776f7
+>>>>>>> 012b243801268f72382a2aed639afe07733d717e
   ]
 }
