@@ -1,6 +1,24 @@
 {
   "user":[
 <<<<<<< HEAD
+        {
+          "id": 1,
+          "name": "Omar",
+          "sirname": "Zed",
+          "photo_url": "https://pbs.twimg.com/media/D4yeIrpW4AI_l_x.jpg",
+          "balance": 1500
+        } 
+=======
+<<<<<<< HEAD
+    {
+      "id":146,
+      "name": "Vasyl",
+      "sirname":"Marynovski",
+      "photo_url":"https://www.boredpanda.com/blog/wp-content/uploads/2022/07/Cat-Virus-Exe-Funny-Pics-123-62c2f23a1a130__700.jpg",
+      "balance": -7645
+    }
+=======
+<<<<<<< HEAD
     {
       "id":165,
       "name": "Dmytro",
@@ -25,3 +43,6 @@
 >>>>>>> 012b243801268f72382a2aed639afe07733d717e
   ]
 }
+
+
+
