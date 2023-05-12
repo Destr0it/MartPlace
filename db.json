@@ -1,34 +1,26 @@
 {
   "user":[
-<<<<<<< HEAD
         {
           "id": 1,
           "name": "Omar",
           "sirname": "Zed",
           "photo_url": "https://pbs.twimg.com/media/D4yeIrpW4AI_l_x.jpg",
           "balance": 1500
-        } 
-=======
-<<<<<<< HEAD
+        },
     {
       "id":146,
       "name": "Vasyl",
       "sirname":"Marynovski",
       "photo_url":"https://www.boredpanda.com/blog/wp-content/uploads/2022/07/Cat-Virus-Exe-Funny-Pics-123-62c2f23a1a130__700.jpg",
       "balance": -7645
-    }
-=======
-<<<<<<< HEAD
+    },
     {
       "id":165,
       "name": "Dmytro",
       "sirname":"Horelyk",
       "photo_url": "amogus.png",
       "balance": 135
-    }
-  
-=======
-<<<<<<< HEAD
+    },
     {
         "id": 1,
         "name": "Andriy",
@@ -36,20 +28,77 @@
         "photo_url": "",
         "balance": 1000
     } 
-=======
-    
-
->>>>>>> 7b8bfba3ddb2c463b32cbb2ca534451e40c776f7
->>>>>>> 012b243801268f72382a2aed639afe07733d717e
   ],
-  "products":[
+  "products": [
+      {
+          "id": 1,
+          "name": "LED display",
+          "description": "Can display 2-lines X 16-characters. Operate with 5V DC.",
+          "price": 92,
+          "author_id": 1,
+          "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/led.jpeg"
+      },
+      {
+          "id": 2,
+          "name": "Arduino UNO",
+          "description": "Brand new and high quality.",
+          "price": 180,
+          "author_id": 3,
+          "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/arduino.jpeg"
+      },
+      {
+          "id": 3,
+          "name": "ESP8266 5V",
+          "description": "This wireless relay is based on the AI-Thinker ESP-01S WIFI module.",
+          "price": 300,
+          "author_id": 2,
+          "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/wifi.jpeg"
+      },
+      {
+          "id": 4,
+          "name": "RGB",
+          "description": "Can make color party.",
+          "price": 92,
+          "author_id": 1,
+          "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/rgb.png"
+      },
+      {
+          "id": 5,
+          "name": "Resistor 10k Ohm",
+          "description": "Can resist the voltage. Super cool.",
+          "price": 180,
+          "author_id": 3,
+          "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/resistor.png"
+      },
+      {
+          "id": 6,
+          "name": "7-Segment Display",
+          "description": "Epic.",
+          "price": 300,
+          "author_id": 2,
+          "photo_url": "https://raw.githubusercontent.com/RobocodeSchool/marketplace/main/img/7-seg.jpg"
+      }
+  ],
+  "category":[
     {
-        "id": 1,
-        "name": "Відладочна плата Arduino Uno Rev3",
-        "description": "Відладочна плата Arduino Uno Rev3 — це компактна, але при цьому функціональна плата на базі мікроконтролера ATmega328P. ",
-        "price": 245.00,
-        "authorId": 1,
-        "photo_url": "https://www.robostore.com.ua/content/images/29/1500x1500l80mc0/otladochnaja-plata-arduino-uno-rev3-44151274908901.webp"
+      "id":1,
+      "name":"Електроніка",
+      "photo_url": "https://categories.olxcdn.com/assets/categories/olxua/elektronika-37-2x.png"
+    },
+    {
+      "id":2,
+      "name":"Дім і сад",
+      "photo_url": "https://categories.olxcdn.com/assets/categories/olxua/dom-i-sad-899-2x.png"
+    },
+    {
+      "id":3,
+      "name":"Авто",
+      "photo_url": "https://categories.olxcdn.com/assets/categories/olxua/transport-1532-2x.png"
+    },
+    {
+      "id":4,
+      "name":"Хобі, відпочинок і спорт",
+      "photo_url": "https://categories.olxcdn.com/assets/categories/olxua/hobbi-otdyh-i-sport-903-2x.png"
     }
   ]
 }
